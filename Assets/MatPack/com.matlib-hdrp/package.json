@@ -1,0 +1,15 @@
+{
+  "name": "com.matlib-hdrp",
+  "displayName": matlib-hdrp
+  "author": {
+    "name": "d-g"
+  },
+  "version": "0.0.1",
+  "unity": "2021.3",
+  "description": "matlib",
+  "license": "",
+  "documentationUrl": "",
+  "dependencies": {
+    
+  }
+}
